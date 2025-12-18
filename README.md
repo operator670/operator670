@@ -10,7 +10,7 @@
 
 <p align="center">
   <strong>Building Scalable, Secure, and Cost-Efficient Digital Foundations</strong><br/>
-  <i>Specializing in SAP-to-Cloud Migrations and the next frontier: Agentic AI 🤖</i>
+  <i>Specializing in Cloud-to-Cloud Migrations and the next frontier: Agentic AI 🤖</i>
 </p>
 
 ---
