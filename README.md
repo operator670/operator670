@@ -31,8 +31,7 @@ I am a **Solution Architect at Team Computers** with a mission to help enterpris
 | Project | Description | Status |
 | :--- | :--- | :--- |
 | **Project Tatva** | An advanced Agentic AI system designed for complex orchestration. | 🏗️ In Development |
-| **Ed-Tech Multi-Agent System** | Building a collaborative AI agent ecosystem for personalized learning. | 🧪 Prototype |
-| **SAP on GCP Migration** | Designing high-performance VM and network architectures for enterprise SAP workloads. | 🚀 Live |
+| **Project Calypso** | Building a collaborative AI agent ecosystem for personalized learning. | 🧪 Prototype |
 
 ---
 
