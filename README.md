@@ -20,7 +20,7 @@
 I am a **Solution Architect at Team Computers** with a mission to help enterprises build resilient and future-proof digital infrastructures. My work sits at the intersection of **Cloud Engineering** and **Generative AI**, ensuring that every solution is optimized for performance, security, and cost.
 
 - 🤖 **Agentic AI Pioneer:** Currently developing "Agentic Applications" and Multi-Agent Systems using the Google Agent Development Kit (ADK).
-- ☁️ **Cloud Specialist:** Lead architect for complex migrations, including moving critical SAP workloads from on-prem/ESDS to Google Cloud Platform.
+- ☁️ **Cloud Specialist:** Lead architect at Team Computers 
 - 🏗️ **Infrastructure as Code:** A firm believer in automation and repeatability using Terraform and specialized cloud native tools.
 - 💡 **Strategic Advisor:** Helping clients navigate their digital transformation journey.
 
