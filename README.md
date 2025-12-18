@@ -22,7 +22,7 @@ I am a **Solution Architect at Team Computers** with a mission to help enterpris
 - 🤖 **Agentic AI Pioneer:** Currently developing "Agentic Applications" and Multi-Agent Systems using the Google Agent Development Kit (ADK).
 - ☁️ **Cloud Specialist:** Lead architect for complex migrations, including moving critical SAP workloads from on-prem/ESDS to Google Cloud Platform.
 - 🏗️ **Infrastructure as Code:** A firm believer in automation and repeatability using Terraform and specialized cloud native tools.
-- 💡 **Strategic Advisor:** Helping clients like **HFCL** and **Sonacomstar** navigate their digital transformation journey.
+- 💡 **Strategic Advisor:** Helping clients navigate their digital transformation journey.
 
 ---
 
