@@ -70,7 +70,7 @@ I am a **Solution Architect at Team Computers** with a mission to help enterpris
 *   💼 **LinkedIn:** [sarthak-kesarwani](https://www.linkedin.com/in/sarthak-kesarwani/)
 *   📝 **Medium:** [@Sarthak_Kesarwani](https://medium.com/@Sarthak_Kesarwani)
 *   🐦 **Twitter:** [@acloudtomato](https://x.com/acloudtomato)
-*   📧 **Professional:** sarthak.kesarwani@teamcomputers.com
+*   📧 **Professional:** officialsarthak905@gmail.com
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote" />
