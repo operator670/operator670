@@ -50,7 +50,7 @@ I am a **Solution Architect at Team Computers** with a mission to help enterpris
 | :--- | :--- | :--- |
 | ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) | ![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF6F61?style=flat-square) | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) |
 | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| ![Security](https://img.shields.io/badge/Security-Green?style=flat-square) | ![LangChain](https://img.shields.io/badge/LangChain-white?style=flat-square) | ![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
+| ![Security](https://img.shields.io/badge/Security-Green?style=flat-square) | ![Agent Development Kit](https://img.shields.io/badge/LangChain-white?style=flat-square) | ![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
 
 </div>
 
