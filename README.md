@@ -38,7 +38,7 @@ I am a **Solution Architect at Team Computers** with a mission to help enterpris
 ### 🏆 Hall of Fame
 
 *   🌟 **2025 Google Cloud Partner All-star Solution Engineer** - Recognized for excellence in architecting Google Cloud solutions.
-*   🥈 **2024 Google Cloud Build and Blog Marathon (1st Runner UP)** - Rewarded for technical storytelling and innovative builds.
+*   🥈 **2024 Google Cloud Build and Blog Marathon (1st Runner UP)** - Secured Second Place at a Hackathon organized by Google Cloud
 
 ---
 
