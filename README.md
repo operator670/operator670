@@ -15,7 +15,7 @@
 
 ---
 
-### 👤 About the Architect
+### 👤 About ME
 
 I am a **Solution Architect at Team Computers** with a mission to help enterprises build resilient and future-proof digital infrastructures. My work sits at the intersection of **Cloud Engineering** and **Generative AI**, ensuring that every solution is optimized for performance, security, and cost.
 
