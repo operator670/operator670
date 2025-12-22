@@ -36,9 +36,16 @@ I am a **Solution Architect at Team Computers** with a mission to help enterpris
 
 ---
 
-### 🏆 Hall of Fame
+### 🏆 Acheivements
 
 *   🌟 **2025 Google Cloud Partner All-star Solution Engineer** - Recognized for excellence in architecting Google Cloud solutions.
+*   🌟 **2025 Google Cloud Certified Professional Cloud Architect**
+*   🌟 **2025 Google Cloud Technical Expert Infrastructure & Modernization**
+*   🌟 **2025 Google Cloud Technical Expert Networking**
+*   🌟 **2025 Google Cloud Technical Expert Security**
+*   🌟 **2025 Google Cloud Technical Expert Intelligent Search**
+*   🌟 **2025 Google Cloud Certified Generative AI Leader**
+*   🌟 **2024 Google Cloud Certified Professional Network Engineer**
 *   🥈 **2024 Google Cloud Build and Blog Marathon (1st Runner UP)** - Secured Second Place at a Hackathon organized by Google Cloud
 
 ---
