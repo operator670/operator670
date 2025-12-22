@@ -32,6 +32,7 @@ I am a **Solution Architect at Team Computers** with a mission to help enterpris
 | :--- | :--- | :--- |
 | **Project Tatva** | An advanced Agentic AI system designed for complex orchestration. | 🏗️ In Development |
 | **Project Calypso** | Building a collaborative AI agent ecosystem for personalized learning. | 🧪 Prototype |
+| **Project Terraform** | Building an Open Sourced Terraform Google Cloud Repository which will be easier to use than other Open Sourced Projects. |  🏗️ In Development |
 
 ---
 
