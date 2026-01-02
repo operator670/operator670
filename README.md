@@ -1,85 +1,84 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,100:FF9900&height=200&section=header&text=Sarthak%20Kesarwani&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,100:FF9900&height=180&section=header&text=Sarthak%20Kesarwani&fontSize=60&fontAlignY=35" width="100%"/>
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Solution%20Architect-Team%20Computers-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/GCP-Expert-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Solution%20Architect-Team%20Computers-1f6feb?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Google%20Cloud-Professional%20Architect-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </p>
 
 <p align="center">
-  <strong>Building Scalable, Secure, and Cost-Efficient Digital Foundations</strong><br/>
-  <i>Specializing in Cloud Migrations and the next frontier: Agentic AI 🤖</i>
+  <strong>Solution Architect | Cloud & Infrastructure | Google Cloud & AWS</strong><br/>
+  Designing secure, scalable, and cost-optimized cloud platforms for enterprises
 </p>
 
 ---
 
-### 👤 About ME
+## 👤 Professional Summary
 
-I am a **Solution Architect at Team Computers** with a mission to help enterprises build resilient and future-proof digital infrastructures. My work sits at the intersection of **Cloud Engineering** and **Generative AI**, ensuring that every solution is optimized for performance, security, and cost.
+I am a **Solution Architect at Team Computers** with hands-on experience in designing and delivering **enterprise-grade cloud architectures** on **Google Cloud and AWS**.
 
-- 🤖 **Agentic AI Pioneer:** Currently developing "Agentic Applications" and Multi-Agent Systems using the Google Agent Development Kit (ADK).
-- ☁️ **Cloud Specialist:** Lead architect at Team Computers 
-- 🏗️ **Infrastructure as Code:** A firm believer in automation and repeatability using Terraform and specialized cloud native tools.
-- 💡 **Strategic Advisor:** Helping clients navigate their digital transformation journey.
+My work focuses on:
+- Cloud migration and modernization
+- Secure landing zones and network design
+- Infrastructure automation using Terraform
+- Reliability, performance, and cost optimization
 
----
-
-### 🔭 Current Orbit (What I'm Working On)
-
-| Project | Description | Status |
-| :--- | :--- | :--- |
-| **Project Tatva** | An advanced Agentic AI system designed for complex orchestration. | 🏗️ In Development |
-| **Project Calypso** | Building a collaborative AI agent ecosystem for personalized learning. | 🧪 Prototype |
-| **Project Terraform** | Building an Open Sourced Terraform Google Cloud Repository which will be easier to use than other Open Sourced Projects. |  🏗️ In Development |
+Alongside core cloud engineering, I actively work with **Generative and Agentic AI systems**, applying them where they deliver clear business value.
 
 ---
 
-### 🏆 Acheivements
+## 💼 Core Expertise
 
-*   🌟 **2025 Google Cloud Partner All-star Solution Engineer** - Recognized for excellence in architecting Google Cloud solutions.
-*   🌟 **2025 Google Cloud Certified Professional Cloud Architect**
-*   🌟 **2025 Google Cloud Technical Expert Infrastructure & Modernization**
-*   🌟 **2025 Google Cloud Technical Expert Networking**
-*   🌟 **2025 Google Cloud Technical Expert Security**
-*   🌟 **2025 Google Cloud Technical Expert Intelligent Search**
-*   🌟 **2025 Google Cloud Certified Generative AI Leader**
-*   🌟 **2024 Google Cloud Certified Professional Network Engineer**
-*   🥈 **2024 Google Cloud Build and Blog Marathon (1st Runner UP)** - Secured Second Place at a Hackathon organized by Google Cloud
+- **Cloud Architecture:** Google Cloud, AWS  
+- **Infrastructure as Code:** Terraform, cloud-native tooling  
+- **Networking & Security:** VPC design, IAM, firewalls, private connectivity  
+- **Cloud Migration:** Compute, databases, hybrid workloads  
+- **Containers & Platforms:** Docker, Kubernetes  
+- **Problem Solving:** Regular LeetCode practice (DSA & coding fundamentals)
 
 ---
 
-### 🛠️ Technical Arsenal
+## 🏆 Certifications & Recognition
+
+- ⭐ **Google Cloud Certified – Professional Cloud Architect**
+- ⭐ **Google Cloud Certified – Professional Network Engineer**
+- ⭐ **Google Cloud Certified – Generative AI Leader**
+- ⭐ **Google Cloud Technical Expert:** Infrastructure, Networking, Security, Intelligent Search
+- 🏅 **Google Cloud Partner All-Star – Solution Engineer (2025)**
+- 🥈 **Google Cloud Build & Blog Marathon – 1st Runner-Up (2024)**
+
+---
+
+## 🛠️ Technology Stack
 
 <div align="center">
 
-| Cloud & Infra | AI & Data | Tools & DevOps |
-| :--- | :--- | :--- |
-| ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) | ![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF6F61?style=flat-square) | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) |
-| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| ![Security](https://img.shields.io/badge/Security-Green?style=flat-square) | ![Agent Development Kit](https://img.shields.io/badge/LangChain-white?style=flat-square) | ![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
+| Cloud Platforms | IaC & DevOps | Containers | Languages |
+| :--- | :--- | :--- | :--- |
+| Google Cloud, AWS | Terraform | Docker, Kubernetes | Python |
 
 </div>
 
 ---
 
-### 📊 Proof of Work (operator670)
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=operator670&show_icons=true&theme=radical&hide_border=true" alt="Sarthak's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=operator670&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=operator670&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=operator670&layout=compact&hide_border=true&theme=default&cache_seconds=1800" />
 </p>
 
 ---
 
-### 🔗 Stay Connected
+## 🔗 Connect
 
-*   💼 **LinkedIn:** [sarthak-kesarwani](https://www.linkedin.com/in/sarthak-kesarwani/)
-*   📝 **Medium:** [@Sarthak_Kesarwani](https://medium.com/@Sarthak_Kesarwani)
-*   🐦 **Twitter:** [@acloudtomato](https://x.com/acloudtomato)
-*   📧 **Professional:** officialsarthak905@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/sarthak-kesarwani/
+- 📝 **Medium:** https://medium.com/@Sarthak_Kesarwani
+- 💻 **LeetCode:** https://leetcode.com/u/user6223e/
+- 📧 **Email:** officialsarthak905@gmail.com
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 </p>
