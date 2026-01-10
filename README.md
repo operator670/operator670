@@ -3,13 +3,13 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Solution%20Architect-Team%20Computers-1f6feb?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Senior%20Cloud%20Engineer-Team%20Computers-1f6feb?style=for-the-badge">
   <img src="https://img.shields.io/badge/Google%20Cloud-Professional%20Architect-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </p>
 
 <p align="center">
-  <strong>Solution Architect | Cloud & Infrastructure | Google Cloud & AWS</strong><br/>
+  <strong>Senior Cloud Engineer | Cloud & Infrastructure | Google Cloud & AWS</strong><br/>
   Designing secure, scalable, and cost-optimized cloud platforms for enterprises
 </p>
 
@@ -17,7 +17,7 @@
 
 ## 👤 Professional Summary
 
-I am a **Solution Architect at Team Computers** with hands-on experience in designing and delivering **enterprise-grade cloud architectures** on **Google Cloud and AWS**.
+I am a **Senior Cloud Engineer at Team Computers** with hands-on experience in designing, building, and delivering **enterprise-grade cloud architectures** on **Google Cloud and AWS**.
 
 My work focuses on:
 - Cloud migration and modernization
@@ -25,18 +25,18 @@ My work focuses on:
 - Infrastructure automation using Terraform
 - Reliability, performance, and cost optimization
 
-Alongside core cloud engineering, I actively work with **Generative and Agentic AI systems**, applying them where they deliver clear business value.
+Alongside core cloud engineering, I actively work with **Generative and Agentic AI systems**, applying them where they deliver measurable business value.
 
 ---
 
 ## 💼 Core Expertise
 
-- **Cloud Architecture:** Google Cloud, AWS  
+- **Cloud Platforms:** Google Cloud, AWS  
 - **Infrastructure as Code:** Terraform, cloud-native tooling  
 - **Networking & Security:** VPC design, IAM, firewalls, private connectivity  
 - **Cloud Migration:** Compute, databases, hybrid workloads  
 - **Containers & Platforms:** Docker, Kubernetes  
-- **Problem Solving:** Regular LeetCode practice (DSA & coding fundamentals)
+- **Problem Solving:** Data Structures & Algorithms (regular LeetCode practice)
 
 ---
 
