@@ -57,7 +57,7 @@ Alongside core cloud engineering, I actively work with **Generative and Agentic 
 
 | Cloud Platforms | IaC & DevOps | Containers | Languages |
 | :--- | :--- | :--- | :--- |
-| Google Cloud, AWS | Terraform | Docker, Kubernetes | Python |
+| Google Cloud, AWS, Azure | Terraform | Docker, Kubernetes | Python |
 
 </div>
 
